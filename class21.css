@@ -14,7 +14,7 @@ section {
 }
 
 header {
-    background-image: url("car.jpg") no-repeat  center center / cover;
+    background: url("car.jpg") no-repeat  center center / cover;
     height: 50vh;
     position: relative;
     padding: 1px;
